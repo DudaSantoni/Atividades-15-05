@@ -2,7 +2,7 @@ package vetores;
 
 import java.util.Scanner;
 
-public class Vetor1 {
+public class Vetor01 {
 
 	public static void main(String[] args) {
 		String a[] = new String [5];
